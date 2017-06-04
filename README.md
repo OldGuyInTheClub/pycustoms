@@ -1,2 +1,2 @@
-# pycustoms
-pycustoms inspects Python packages
+# pyCustoms
+pycustoms inspects Python packages and optionally graphs dependencies
